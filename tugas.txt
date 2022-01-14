@@ -1,0 +1,14 @@
+Yg tidak paham :
+
+1. Array
+2. Polymorphism
+3. Dependency Injection
+4. Encapsulation
+5. Abstraction
+
+Yg paham :
+1. Class
+2. Object
+3. Attribute
+4. Method
+5. Inheritance
