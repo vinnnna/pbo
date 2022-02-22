@@ -10,19 +10,3 @@ fun main() {
         println(student)
     }
 }
-
-
-//    while (index <= 10)
-//    {
-//        if (index == 9)
-//        {
-//            //index++ //continue
-//            // println(index)
-//            continue
-//            break
-//        }
-//
-//        println(index)
-//        index++
-//    }
-//}
